@@ -18,9 +18,6 @@ h2{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-header{
-    
-}
 
 .menu{
     background-color: #B1F1FA;
@@ -28,7 +25,7 @@ header{
 }
 .menu-nav{
     list-style-type:none;
-    padding:  ;
+    padding:  10px;
 }
 .menu-nav_item{
     display: inline-block;
